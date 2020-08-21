@@ -2,7 +2,7 @@
 layout: post
 title:  NodeJS Password Generator
 categories: [NodeJS, JavaScript, CLI]
-excerpt: We're often told to never use the same password. While that's true, it's often one of the most annoying aspects of registering for a new website. So below, I offer a short tutorial on creating an executable nodejs password generator. 
+excerpt: We're often told to never use the same password. While that's true, it's often one of the most annoying aspects of registering for a new website. So in this article, I offer a short tutorial on creating an executable nodejs password generator. 
 ---
 
 We're often told to never use the same password. While that's true, it's often one of the most annoying aspects of registering for a new website. So in this article, I offer a short tutorial on creating an executable nodejs password generator. 
